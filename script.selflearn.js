@@ -76,11 +76,7 @@ function formatTournaments(sport) {
 
 // ---------------- INTENTS ----------------
 const intents = [
-  {
-    tag: "registration",
-    keywords: ["register", "sign up", "how to register", "registration process", "enroll", "apply", "get started", "start playing", "register myself"],
-    text: "You can register via our WhatsApp chatbot or visit zemo.com/register."
-  },
+  ,
   {
     tag: "sports",
     keywords: ["available sports", "sports list", "what games", "what sports", "games available", "sports offered", "which sports", "event list"],
